@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\TutorialBank.exe
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\TutorialBank.deps.json
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\TutorialBank.runtimeconfig.json
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\TutorialBank.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\TutorialBank.dll
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\TutorialBank.pdb
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.AssemblyInfo.cs
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.dll
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.pdb
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.genruntimeconfig.cache

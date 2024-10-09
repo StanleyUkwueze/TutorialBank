@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "04Fk8wo0c0E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Week01Class\\Week01Class\\TutorialBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

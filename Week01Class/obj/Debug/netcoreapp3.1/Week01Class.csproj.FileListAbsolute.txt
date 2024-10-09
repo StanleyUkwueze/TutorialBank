@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\Week01Class.exe
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\Week01Class.deps.json
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\Week01Class.runtimeconfig.json
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\Week01Class.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\Week01Class.dll
+C:\Users\HP\source\repos\Week01Class\Week01Class\bin\Debug\netcoreapp3.1\Week01Class.pdb
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\Week01Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\Week01Class.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\Week01Class.AssemblyInfo.cs
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\Week01Class.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\Week01Class.dll
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\Week01Class.pdb
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\Week01Class.genruntimeconfig.cache
