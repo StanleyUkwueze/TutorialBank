@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TutorialBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eee5e8a8d2ff595772cbd9c02af4b95477980ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("TutorialBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TutorialBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,3 +11,4 @@ C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\Tutoria
 C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.dll
 C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.pdb
 C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.genruntimeconfig.cache
+C:\Users\HP\source\repos\Week01Class\Week01Class\obj\Debug\netcoreapp3.1\TutorialBank.sourcelink.json
